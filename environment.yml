@@ -1,0 +1,15 @@
+name: ngs-benchmark
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - fastqc
+  - multiqc
+  - fastp
+  - bwa
+  - samtools
+  - bcftools
+  - bedtools
+  - gatk4
+  - rtg-tools
+  - sra-tools

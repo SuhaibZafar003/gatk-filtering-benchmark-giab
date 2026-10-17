@@ -1,0 +1,17 @@
+name: ngs-benchmark
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bedtools
+  - sra-tools
+  - samtools
+  - rtg-tools
+  - multiqc
+  - bcftools
+  - bwa
+  - gatk4
+  - fastqc
+  - fastp
+prefix: /home/noir/miniconda3/envs/ngs-benchmark

@@ -1,0 +1,14 @@
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.sam
+*.fasta
+*.fa
+*.fai
+*.vcf.gz
+*.tbi
+data/*
+!data/README.md
+work/
